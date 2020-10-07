@@ -70,7 +70,7 @@ Research: [fs.appendFile()](https://nodejs.org/docs/latest-v12.x/api/fs.html#fs_
 ```
 fs.readFile(filename, callback);
 ```
-Research: [fs.appendFile()](https://nodejs.org/docs/latest-v12.x/api/fs.html#fs_fs_appendfile_path_data_options_callback)
+Research: [fs.readFile()](https://www.geeksforgeeks.org/node-js-fs-readfile-method/?ref=lbp)
 
 1. Create a function which will read data from a file on the server
 

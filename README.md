@@ -12,11 +12,11 @@ This project assumes you've already had experience with:
 
 - JavaScript
 
-## Assignments
+## Tasks
 
 For this assignment, you are expected to write your code in the file `server.js`
 
-## Assignment 1 - Importing the 'fs' module
+## Task 1 - Importing the 'fs' module
 
 For this assignment, we will be using the Node.js module, `fs`. Look over your notes regarding the Node.js file system.
 
@@ -26,7 +26,7 @@ Before you can use the `fs` module, we should import it:
 const fs = require('fs');
 ```
 
-## Assignment 2 - Writing data
+## Task 2 - Writing data
 
 ```
 fs.writeFile(filename, data, callback);
@@ -45,7 +45,7 @@ Research: [fs.writeFile()](https://www.geeksforgeeks.org/node-js-fs-writefile-me
 
 2. Test your function by trying to write some data
 
-## Assignment 3 - Appending data
+## Task 3 - Appending data
 
 ```
 fs.appendFile(filename, data, callback);
@@ -65,7 +65,7 @@ Research: [fs.appendFile()](https://nodejs.org/docs/latest-v12.x/api/fs.html#fs_
 2. Test your function by trying to write some data
 
 
-## Assignment 4 - Reading data
+## Task 4 - Reading data
 
 ```
 fs.readFile(filename, callback);

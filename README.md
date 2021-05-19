@@ -4,14 +4,14 @@ This project will show you how to use the node.js filesystem with Promises
 
 ## What you will be doing
 
-This project test your knowledge on:
+This project will allow you to practise using:
 
-- the filesystem (fs) in node.js
+> the filesystem (fs) in node.js
 
 This project assumes you've already had experience with:
 
-- JavaScript
-- Promise API
+> - JavaScript
+> - Promise API
 
 ## Tasks
 

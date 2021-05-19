@@ -1,12 +1,12 @@
-# Node.js working with the node.js filesystem
+# Working with the node.js filesystem
 
-This project will show you how to use the Node.js filesystem
+This project will show you how to use the node.js filesystem
 
 ## What you will be doing
 
 This project test your knowledge on:
 
-- the filesystem (fs) in Node.js
+- the filesystem (fs) in node.js
 
 This project assumes you've already had experience with:
 
